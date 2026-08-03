@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_CLI_NATIVE_LANGUAGE": "go",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "native"
+  },
+  "ConnectionStrings": {},
+  "Host": {}
+}
