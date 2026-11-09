@@ -1,5 +1,5 @@
-github.com/azure/azure-functions-golang-worker v0.6.0-preview h1:sSXuTZCdVStX0O0TDYpb3EB8iGS1DYQi+p5W9aaQuBE=
-github.com/azure/azure-functions-golang-worker v0.6.0-preview/go.mod h1:jkzgeVs8oQqxoR0keXFrcBMqN288Bidzkaf+RAuk1OQ=
+github.com/azure/azure-functions-golang-worker v1.0.0 h1:BRzEcppFqlD/kOGcSCu699Kb2u/5ooXByNKLzns/e2o=
+github.com/azure/azure-functions-golang-worker v1.0.0/go.mod h1:OlVVd1h4g2OfIyBh/NeNUa9gHKFhuNVHd18a+jD8UEE=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
 github.com/cespare/xxhash/v2 v2.3.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/go-logr/logr v1.4.3 h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=
